@@ -1,0 +1,103 @@
+# Site
+name: "OM&IS Gazette"
+title: "OM&IS Gazette"
+description: "News and updates from the NIU Operations Management & Information Systems department"
+logo: 'assets/images/niulogo.png'
+#favicon: 'assets/images/logo.png'
+baseurl: '/omisgazette'
+google_analytics: 'UA-136683210-2'
+disqus: ''
+mailchimp-list: ''
+include: ["_pages"]
+permalink: /:title/
+
+#site contact email
+email: z1770920@students.niu.edu
+
+# Authors
+authors:
+  Russ:
+    name: Russ
+    display_name: Russ
+    avatar: 'assets/images/russ.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: rdevereaux2@niu.edu
+    web: https://www.cob.niu.edu/about/directory/devereaux.shtml 
+    twitter: https://twitter.com/NIUlive?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+    description: "Associate Director and Program Advisor"
+  Casey:
+    name: Casey
+    display_name: Casey    
+    avatar: 'assets/images/cw.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: caseynicolewalters@gmail.com
+    web: https://www.linkedin.com/in/casey-walters-331511119/
+    twitter: https://twitter.com/NIUlive?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+    description: "MIS Graduate Student and Manager of the OM&IS Gazette"
+  Jude:
+    name: Jude
+    display_name: Jude
+    avatar: 
+    gravatar: 
+    email: z1878888@students.niu.edu
+    web: https://inspiredlab.github.io/omisgazette 
+    twitter: https://twitter.com/NIUlive?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+    description: "OM&IS Student and Inspired Lab Team Member"
+  Leen:
+    name: Leen
+    display_name: Leen
+    avatar: 
+    gravatar: 
+    email: z1879079@students.niu.edu
+    web: https://inspiredlab.github.io/omisgazette 
+    twitter: https://twitter.com/NIUlive?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+    description: "OM&IS Student and Inspired Lab Team Member"
+  
+   
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+
+
+
+# Casey Walters
+# 4.30.2020

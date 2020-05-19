@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<title>About BIS | Illinois BIS</title>		
+		<meta name="keywords" content="History, background, training, consulting, who we are, what we do" />
+		<meta name="description" content="About Illinois BIS">
+		
+		<!-- Global site tag (gtag.js) - Google Ads: 872043904 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-872043904"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-872043904');
+		</script>
+		
+		<!-- Event snippet for viewers conversion page -->
+		<script>
+		gtag('event', 'conversion', {'send_to': 'AW-872043904/PBWPCJzEoogBEICr6Z8D'});
+		</script>
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Web Fonts  -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="vendor/bootstrap/bootstrap.css">
+		<link rel="stylesheet" href="vendor/fontawesome/css/font-awesome.css">
+		<link rel="stylesheet" href="vendor/owlcarousel/owl.carousel.css" media="screen">
+		<link rel="stylesheet" href="vendor/owlcarousel/owl.theme.css" media="screen">
+		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.css" media="screen">
+
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="css/theme.css">
+		<link rel="stylesheet" href="css/theme-elements.css">
+		<link rel="stylesheet" href="css/theme-blog.css">
+		<link rel="stylesheet" href="css/theme-shop.css">
+		<link rel="stylesheet" href="css/theme-animate.css">
+
+		<!-- Skin CSS -->
+		<!--<link rel="stylesheet" href="css/skins/default.css">-->
+		<link rel="stylesheet" href="css/skins/orange.css">
+
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="css/custom.css">
+
+		<!-- Head Libs -->
+		<script src="vendor/modernizr/modernizr.js"></script>
+
+		<!--[if IE]>
+			<link rel="stylesheet" href="css/ie.css">
+		<![endif]-->
+
+		<!--[if lte IE 8]>
+			<script src="vendor/respond/respond.js"></script>
+			<script src="vendor/excanvas/excanvas.js"></script>
+		<![endif]-->
+
+	</head>
+	<body>
+
+		<div class="body">
+			
+						<header id="header" class="colored flat-menu darken-top-border">
+				<div class="header-top">
+					<div class="container">
+						<!--
+						<p>
+							Call us today to register for a course or workshop! <i class="fa fa-phone"></i> (630) 505-0500
+						</p>
+						-->
+						
+						<div class="search">
+							<form id="searchForm" action="searchresults.php" method="get">
+								<div class="input-group">
+									<input type="text" class="form-control search" name="q" id="q" placeholder="Search..." required>
+									<span class="input-group-btn">
+										<button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+									</span>
+								</div>
+							</form>
+						</div>
+						
+                        <div class="social-icons">
+								<ul class="social-icons" style= "margin-top:1px; padding-left:17px;">
+									<li class="facebook"><a href="https://www.facebook.com/IllinoisBIS/" target="_blank">Facebook</a></li>
+									<li class="twitter"><a href="https://www.twitter.com/IllinoisBIS" target="_blank">Twitter</a></li>
+									<li class="linkedin"><a href="https://www.linkedin.com/company/illinois-business-innovation-services" target="_blank">Linkedin</a></li>
+									<li class="youtube"><a href="https://www.youtube.com/channel/UCEl4uKyK1fptNvNpfKsRvvQ" target="_blank">YouTube</a></li>
+								</ul>
+						</div>
+
+                        
+						<!-- BEGIN: Constant Contact Email List Form Button -->
+						<div class="signup1">
+							<a href="https://visitor.r20.constantcontact.com/d.jsp?llr=wl5sydyab&amp;p=oi&amp;m=1125407881590&amp;sit=li8wizykb&amp;f=81b28286-784d-4b08-b080-4dcdacab5914" class="button signupBtn1" >Join Our Mailing List</a>
+							<!-- BEGIN: Email Marketing you can trust
+							<div id="ctct_button_footer" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;margin-top: 10px;">For Email Newsletters you can trust.
+							</div>-->
+						</div>
+						
+					</div>
+				</div>
+				<div class="container">
+					<h1 class="logo">
+						<a href="index.php">
+							<img alt="Illinois BIS logo" width="300" height="115" data-sticky-width="200" data-sticky-height="75" src="img/logo_header.png">
+						</a>
+					</h1>
+					<button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
+						<i class="fa fa-bars"></i>
+					</button>
+				</div>
+				<div class="navbar-collapse nav-main-collapse collapse">
+					<div class="container">
+						<nav class="nav-main mega-menu">
+							<ul class="nav nav-pills nav-main" id="mainMenu">
+								<li>
+									<a style="padding-right:15px; padding-left:15px;" href="index.php"><i class="fa fa-home fa-2x"></i></a>
+								</li>
+								<li class="dropdown">
+									<a class="dropdown-toggle">Training <i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu">
+										<li><a href="leadership.php">Leadership</a></li>
+										<li><a href="six-sigma.php">Lean / Six Sigma</a></li>
+										<li><a href="quality.php">Quality</a></li>
+										<li><a href="prof-development.php">Professional Development</a></li>
+										<li><a href="operations.php">Operations</a></li>
+									</ul>
+								</li>
+                                
+                           
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="services.php">Consulting<i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu">
+                                    	<li><a href="services.php">Consulting Services</a></li>
+										<li><a href="engineering-design.php">Engineering</a></li>
+										<li><a href="innovation-consulting.php">Innovation</a></li>
+									</ul>
+                                </li>
+                                    
+                                <li class="dropdown">
+									<a class="dropdown-toggle">Services <i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu">
+										<li><a href="surveys.php">Surveys</a></li>
+										<li><a href="roomrentals.php">Room Rentals</a></li>
+										
+									</ul>
+								</li>   
+                                    
+                                    
+								<li>
+									<a href="workshops.php">Workshops</a>
+								</li>
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="about.php">About Us <i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu">
+										<li><a href="about.php">About Illinois BIS</a></li>
+                                    	<li><a href="success-stories.php">Success Stories</a></li>
+										<li><a href="testimonials.php">Testimonials</a></li>
+										<li><a href="grantfunding.php">Grant Funding</a></li>
+
+                                        <li><a href="faq.php">FAQ</a></li>
+									</ul>
+								</li>
+
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="contact-us.php">Contact <i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu">
+										<li><a href="contact-us.php">Contact Information</a></li>
+										<li><a href="contact-us.php#bios">Illinois BIS Instructors</a></li>
+                                        <li><a href="careers.php">Careers</a>                                </li>
+									</ul>
+								<li class="dropdown">
+									<a class="dropdown-toggle">Resources <i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu">
+										<li><a href="http://blog.illinoisbis.org/">Blog</a></li>
+										<li><a href="video-tips.php">Video Tips</a></li>
+                                    	<li><a href="partners.php">Partners</a></li>
+
+									</ul>
+
+								</li>                                    
+                                    
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</header>
+			<div role="main" class="main">
+
+				<section class="page-top">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<ul class="breadcrumb">
+									<li><a href="index.php">Home</a></li>
+									<li class="active">About Us</li>
+									<li class="active">About Illinois BIS</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-12">
+								<h2>About Us</h2>
+							</div>
+						</div>
+
+					</div>
+				</section>
+
+				<div class="container">
+
+					<div class="row">
+						<div class="col-md-3">
+							<aside class="sidebar">
+
+								<h4>Customized Training &amp; Consulting</h4>
+								<ul class="nav nav-list primary push-bottom">
+									<li><a href="leadership.php">Leadership, Strategy &amp; Innovation</a></li>
+									<li><a href="six-sigma.php">Lean/Six Sigma</a></li>
+									<li><a href="quality.php">Quality</a></li>
+									<li><a href="prof-development.php">Professional Development</a></li>
+									<li><a href="operations.php">Operations</a></li>
+									<li><a href="services.php">Consulting Services</a></li>
+								</ul>
+								
+								<!--
+								<div class="sidebox1">
+								<p>
+								This training is available on-site at your location. Please contact us for more information.<br/>
+								<i class="fa fa-phone"></i> (630) 505-0500<br/>
+								<i class="fa fa-envelope-o"></i> <a href="#">email@address.com</a>
+								</p>
+								<hr />
+								<p>Many topics are also available as public workshops.</p>
+								<a href="#"><button type="button" class="btn btn-primary">Workshop Schedule</button></a>
+								</div>
+								-->
+
+							</aside>
+						</div>
+						<div class="col-md-9">
+
+								<h1>About Us</h1>
+                                
+                                <div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Egf5lso8RFM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+							</div>
+                                <br/>
+                                <br/>
+                                
+								<h3>Illinois Business Innovation Services (BIS)</h3>
+								<p>Helping thousands of organizations for over 30 years, the professionals at Illinois BIS specialize in customized training and consulting to help organizations improve performance with sustainable results.</p>
+								<p>We also offer public courses and workshops at our Naperville Center to foster individual growth and knowledge.</p>
+								<h5 style="font-size:18px;">Reputation Counts - Over 90% of our new customers are referred to us by current customers!</h5>
+								<p>Our most effective role is to help develop the potential within each organization to achieve a culture where innovation and constant improvement thrive.</p>
+								<p>Our hallmark has been our ability to help organizations grow profitably by collaborating with the talent within the organization.  We believe that people embrace what they help to create.</p>
+								<p>We introduce new methodologies and tools and help organizations develop a focused, mission-driven culture designed to inspire ideas that create the future.</p>
+								
+								<!--
+								<h3>Transition</h3>
+								
+								<p>Since 1983 BIS has provided outstanding customized training services that have helped our customers remain globally competitive primarily in Illinois.  BIS has been associated with the University of Illinois since 2006, but in recent years, it became apparent that BIS could gain flexibility and efficiency as a separate organization.  Therefore, BIS and U of I agreed to end their affiliation in December of 2015, and we are delighted with this transition.</p>
+                                
+                                -->
+                                
+                                
+								<p>Illinois BIS is a non-profit training and consulting organization that provides expertise in: Lean Six Sigma Implementation, Strategic Global Leadership, Lean Leadership, Innovation Strategy, Quality System Implementation including the ISO suite, basic and technical skills, customized apprenticeship programs, customer and employee culture surveys and professional development training.</p>
+								
+								<h3>Our Mission</h3>
+								
+								<p class="push-bottom" style="font-weight:600; font-size:18px;">Illinois BIS’s mission is to provide exceptional consulting and training to help our customers grow.  We specialize in companywide strategic business improvement solutions that result in bottom-line profitability. We help solve problems.</p>
+								
+								<!--
+								<h3>Our Partners</h3>
+									<div class="row">
+										<div class="col-md-4">
+											<h5><a href="http://www.business.uiuc.edu/bcs/">University of Illinois College of Business Career Services</a></h5>
+										</div>
+										<div class="col-md-4">
+											<h5><a href="http://www.illinoisbiz.biz/dceo/Bureaus/Business_Development/">State of Illinois Department of Commerce and Economic Opportunity</a></h5>
+										</div>
+										<div class="col-md-4">
+											<h5><a href="http://engineering.illinois.edu/ecs/">University of Illinois Engineering Career Services</a></h5>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-md-4">
+											<h5><a href="http://www.illinois.gov/business/Pages/default.aspx">State of Illinois Business Portal</a></h5>
+										</div>
+										<div class="col-md-4">
+											<h5><a href="http://engagement.illinois.edu/">University of Illinois Public Engagement</a></h5>
+										</div>
+										<div class="col-md-4">
+											<h5><a href="http://www.cyberdriveillinois.com/departments/library/who_we_are/literacy/about.html">State of Illinois Secretary of State Literacy Office</a></h5>
+										</div>
+									</div>
+									<div class="row push-bottom">
+										<div class="col-md-4">
+											<h5><a href="http://www.highlandsapics.com/index.html">Highlands Chapter 261 APICS Association for Operations Management</a></h5>
+										</div>
+										<div class="col-md-4">
+											<h5><a href="http://isupply.illinois.edu/">iSupply University of Illinois</a></h5>
+										</div>
+										<div class="col-md-4">
+
+										</div>
+									</div>
+									-->
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+						<footer style="margin-top:0px;" class="short" id="footer">
+				<div class="container">
+					<div class="row">
+						
+						<div class="col-md-4">
+							<h4 class="short">Contact Us</h4>
+							<span class="phone"><a href="tel:6305050500">(630) 505-0500</a></span>
+							<p class="short" style="color:#fff;">1100 E. Warrenville Rd. STE 150, Naperville, IL 60563</p>
+							<ul class="list icons list-unstyled">
+								<li style="color:#fff;"><i class="fa fa-envelope"></i> <a href="mailto:info@illinoisbis.org">info@illinoisbis.org</a> | <a href="https://goo.gl/maps/Eq6wpvJsQpN2" target="_blank">directions</a></li>
+							</ul>
+							
+							<div class="social-icons">
+								<ul class="social-icons">
+									<li class="facebook"><a href="https://www.facebook.com/IllinoisBIS/" target="_blank">Facebook</a></li>
+									<li class="twitter"><a href="http://www.twitter.com/IllinoisBIS" target="_blank">Twitter</a></li>
+									<li class="linkedin"><a href="https://www.linkedin.com/company/illinois-business-innovation-services" target="_blank">Linkedin</a></li>
+									<li class="youtube"><a href="https://www.youtube.com/channel/UCEl4uKyK1fptNvNpfKsRvvQ" target="_blank">YouTube</a></li>
+								</ul>
+							</div>
+							
+							<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+											<!--<h4 class="modal-title" id="myModalLabel">Modal title</h4>-->
+										</div>
+										<div class="modal-body socialtext">
+											Coming soon to Illinois BIS.<br/>Please check back at a later time...
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						
+						<div class="col-md-7 col-md-offset-1">
+							
+							<div class="row">
+								<div class="col-md-12">
+									<p class="footerlighter">© 2006-<script type="text/javascript">var dteNow = new Date(); var intYear = dteNow.getFullYear(); document.write(intYear);</script> Illinois BIS | <a href="privacy.php">Privacy Policy</a> | <a href="admin/index.php"><i class="fa fa-chevron-circle-right"></i>&nbsp;Admin Login</a></p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row">
+						<p class="eoe">Website design and development by <a href="https://www.facebook.com/1108design" target="_blank">1108design.com</a></p>
+					</div>
+				</div>
+			</footer>			
+		</div>
+
+		<!-- Vendor -->
+		<script src="vendor/jquery/jquery.js"></script>
+		<script src="vendor/jquery.appear/jquery.appear.js"></script>
+		<script src="vendor/jquery.easing/jquery.easing.js"></script>
+		<script src="vendor/jquery-cookie/jquery-cookie.js"></script>
+		<script src="vendor/bootstrap/bootstrap.js"></script>
+		<script src="vendor/common/common.js"></script>
+		<script src="vendor/jquery.validation/jquery.validation.js"></script>
+		<script src="vendor/jquery.stellar/jquery.stellar.js"></script>
+		<script src="vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.js"></script>
+		<script src="vendor/jquery.gmap/jquery.gmap.js"></script>
+		<script src="vendor/twitterjs/twitter.js"></script>
+		<script src="vendor/isotope/jquery.isotope.js"></script>
+		<script src="vendor/owlcarousel/owl.carousel.js"></script>
+		<script src="vendor/jflickrfeed/jflickrfeed.js"></script>
+		<script src="vendor/magnific-popup/jquery.magnific-popup.js"></script>
+		<script src="vendor/vide/vide.js"></script>
+		
+		<!-- Theme Base, Components and Settings -->
+		<script src="js/theme.js"></script>
+		
+		<!-- Theme Custom -->
+		<script src="js/custom.js"></script>
+		
+		<!-- Theme Initialization Files -->
+		<script src="js/theme.init.js"></script>
+
+		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->
+		<script type="text/javascript">
+		
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-76145210-1']);
+			_gaq.push(['_trackPageview']);
+		
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		
+		</script>
+		
+
+	</body>
+</html>
